@@ -1,0 +1,74 @@
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.csproj.AssemblyReference.cache
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.AssemblyInfoInputs.cache
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.AssemblyInfo.cs
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.csproj.CoreCompileInputs.cache
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\MVCJobsearchapp.exe
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\MVCJobsearchapp.deps.json
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\MVCJobsearchapp.runtimeconfig.json
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\MVCJobsearchapp.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\MVCJobsearchapp.pdb
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobse.724E0C45.Up2Date
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\refint\MVCJobsearchapp.dll
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.pdb
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\MVCJobsearchapp.genruntimeconfig.cache
+C:\Users\htduc\Documents\MVCJobsearchapp\obj\Debug\net8.0\ref\MVCJobsearchapp.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\MVCJobSearchApp.exe
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\MVCJobSearchApp.deps.json
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\MVCJobSearchApp.runtimeconfig.json
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\MVCJobSearchApp.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\MVCJobSearchApp.pdb
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.csproj.AssemblyReference.cache
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.AssemblyInfoInputs.cache
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.AssemblyInfo.cs
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\refint\MVCJobSearchApp.dll
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.pdb
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\MVCJobSearchApp.genruntimeconfig.cache
+C:\Users\htduc\Documents\Do An\MVCJobSearchApp\obj\Debug\net8.0\ref\MVCJobSearchApp.dll
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\obj\Debug\net8.0\MVCJobse.724E0C45.Up2Date

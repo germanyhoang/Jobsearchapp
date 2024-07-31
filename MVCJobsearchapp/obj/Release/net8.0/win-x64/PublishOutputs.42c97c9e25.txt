@@ -1,0 +1,7 @@
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\bin\Release\net8.0\win-x64\publish\MVCJobsearchapp.pdb
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\bin\Release\net8.0\win-x64\publish\comerr64.dll
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\bin\Release\net8.0\win-x64\publish\gssapi64.dll
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\bin\Release\net8.0\win-x64\publish\k5sprt64.dll
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\bin\Release\net8.0\win-x64\publish\krb5_64.dll
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\bin\Release\net8.0\win-x64\publish\krbcc64.dll
+C:\Users\htduc\Documents\Do An\MVCJobsearchapp\bin\Release\net8.0\win-x64\publish\MVCJobsearchapp.exe
